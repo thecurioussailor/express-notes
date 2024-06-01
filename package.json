@@ -1,0 +1,14 @@
+{
+  "name": "express-notes",
+  "version": "1.0.0",
+  "description": "leaning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashutosh Sagar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
